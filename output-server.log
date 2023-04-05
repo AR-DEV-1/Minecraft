@@ -1,0 +1,113 @@
+2023-03-18 23:09:39 [SERVER] [INFO] Starting integrated minecraft server version UNKNOWN
+2023-03-18 23:09:39 [SERVER] [INFO] Generating keypair
+2023-03-18 23:09:39 [SERVER] [INFO] Converting map!
+2023-03-18 23:09:39 [SERVER] [INFO] Scanning folders...
+2023-03-18 23:09:39 [SERVER] [INFO] Total conversion count is 0
+2023-03-18 23:09:39 [SERVER] [INFO] Preparing start region for level 0
+2023-03-18 23:09:40 [SERVER] [INFO] Preparing spawn area: 18%
+2023-03-18 23:09:41 [SERVER] [INFO] Preparing spawn area: 34%
+2023-03-18 23:09:42 [SERVER] [INFO] Preparing spawn area: 52%
+2023-03-18 23:09:43 [SERVER] [INFO] Preparing spawn area: 72%
+2023-03-18 23:09:44 [SERVER] [INFO] Preparing spawn area: 89%
+2023-03-18 23:09:45 [SERVER] [INFO] Administrator[/127.0.0.1:0] logged in with entity id 178 at (91.5, 68.0, 256.5)
+2023-03-18 23:14:17 [SERVER] [INFO] Saving and pausing game...
+2023-03-18 23:14:17 [SERVER] [INFO] Saving chunks for level '54455354'/Overworld
+2023-03-18 23:14:17 [SERVER] [INFO] Saving chunks for level '54455354'/Nether
+2023-03-18 23:14:17 [SERVER] [INFO] Saving chunks for level '54455354'/The End
+2023-03-18 23:14:36 [SERVER] [INFO] Saving and pausing game...
+2023-03-18 23:14:36 [SERVER] [INFO] Saving chunks for level '54455354'/Overworld
+2023-03-18 23:14:36 [SERVER] [INFO] Saving chunks for level '54455354'/Nether
+2023-03-18 23:14:36 [SERVER] [INFO] Saving chunks for level '54455354'/The End
+2023-03-18 23:14:54 [SERVER] [INFO] Stopping server
+2023-03-18 23:14:54 [SERVER] [INFO] Saving players
+2023-03-18 23:14:54 [SERVER] [INFO] Saving worlds
+2023-03-18 23:14:54 [SERVER] [INFO] Saving chunks for level '54455354'/Overworld
+2023-03-18 23:14:54 [SERVER] [INFO] Saving chunks for level '54455354'/Nether
+2023-03-18 23:14:54 [SERVER] [INFO] Saving chunks for level '54455354'/The End
+2023-03-18 23:28:15 [SERVER] [INFO] Starting integrated minecraft server version UNKNOWN
+2023-03-18 23:28:15 [SERVER] [INFO] Generating keypair
+2023-03-18 23:28:15 [SERVER] [INFO] Preparing start region for level 0
+2023-03-18 23:28:16 [SERVER] [INFO] Administrator[/127.0.0.1:0] logged in with entity id 319 at (-16.658477314532487, 68.0, 244.99905221603376)
+2023-03-18 23:29:16 [SERVER] [INFO] Saving and pausing game...
+2023-03-18 23:29:17 [SERVER] [INFO] Saving chunks for level 'TEST'/Overworld
+2023-03-18 23:29:17 [SERVER] [INFO] Saving chunks for level 'TEST'/Nether
+2023-03-18 23:29:17 [SERVER] [INFO] Saving chunks for level 'TEST'/The End
+2023-03-18 23:29:48 [SERVER] [INFO] Saving and pausing game...
+2023-03-18 23:29:48 [SERVER] [INFO] Saving chunks for level 'TEST'/Overworld
+2023-03-18 23:29:48 [SERVER] [INFO] Saving chunks for level 'TEST'/Nether
+2023-03-18 23:29:48 [SERVER] [INFO] Saving chunks for level 'TEST'/The End
+2023-03-18 23:31:19 [SERVER] [INFO] Saving and pausing game...
+2023-03-18 23:31:19 [SERVER] [INFO] Saving chunks for level 'TEST'/Overworld
+2023-03-18 23:31:19 [SERVER] [INFO] Saving chunks for level 'TEST'/Nether
+2023-03-18 23:31:19 [SERVER] [INFO] Saving chunks for level 'TEST'/The End
+2023-03-18 23:35:07 [SERVER] [INFO] Saving and pausing game...
+2023-03-18 23:35:07 [SERVER] [INFO] Saving chunks for level 'TEST'/Overworld
+2023-03-18 23:35:07 [SERVER] [INFO] Saving chunks for level 'TEST'/Nether
+2023-03-18 23:35:07 [SERVER] [INFO] Saving chunks for level 'TEST'/The End
+2023-03-18 23:35:08 [SERVER] [INFO] Stopping server
+2023-03-18 23:35:08 [SERVER] [INFO] Saving players
+2023-03-18 23:35:08 [SERVER] [INFO] Saving worlds
+2023-03-18 23:35:08 [SERVER] [INFO] Saving chunks for level 'TEST'/Overworld
+2023-03-18 23:35:08 [SERVER] [INFO] Saving chunks for level 'TEST'/Nether
+2023-03-18 23:35:08 [SERVER] [INFO] Saving chunks for level 'TEST'/The End
+2023-03-19 02:21:46 [SERVER] [INFO] Starting integrated minecraft server version UNKNOWN
+2023-03-19 02:21:46 [SERVER] [INFO] Generating keypair
+2023-03-19 02:21:46 [SERVER] [INFO] Preparing start region for level 0
+2023-03-19 02:21:47 [SERVER] [INFO] Preparing spawn area: 90%
+2023-03-19 02:21:47 [SERVER] [INFO] Administrator[/127.0.0.1:0] logged in with entity id 320 at (31.42709369251365, 70.0, 249.0063308245788)
+2023-03-19 02:21:59 [SERVER] [INFO] Saving and pausing game...
+2023-03-19 02:21:59 [SERVER] [INFO] Saving chunks for level 'TEST'/Overworld
+2023-03-19 02:21:59 [SERVER] [INFO] Saving chunks for level 'TEST'/Nether
+2023-03-19 02:21:59 [SERVER] [INFO] Saving chunks for level 'TEST'/The End
+2023-03-19 02:22:31 [SERVER] [INFO] Saving and pausing game...
+2023-03-19 02:22:31 [SERVER] [INFO] Saving chunks for level 'TEST'/Overworld
+2023-03-19 02:22:31 [SERVER] [INFO] Saving chunks for level 'TEST'/Nether
+2023-03-19 02:22:31 [SERVER] [INFO] Saving chunks for level 'TEST'/The End
+2023-03-19 02:22:54 [SERVER] [INFO] Saving and pausing game...
+2023-03-19 02:22:54 [SERVER] [INFO] Saving chunks for level 'TEST'/Overworld
+2023-03-19 02:22:54 [SERVER] [INFO] Saving chunks for level 'TEST'/Nether
+2023-03-19 02:22:54 [SERVER] [INFO] Saving chunks for level 'TEST'/The End
+2023-03-19 02:24:16 [SERVER] [INFO] Saving and pausing game...
+2023-03-19 02:24:16 [SERVER] [INFO] Saving chunks for level 'TEST'/Overworld
+2023-03-19 02:24:16 [SERVER] [INFO] Saving chunks for level 'TEST'/Nether
+2023-03-19 02:24:16 [SERVER] [INFO] Saving chunks for level 'TEST'/The End
+2023-03-19 02:24:20 [SERVER] [INFO] Saving and pausing game...
+2023-03-19 02:24:20 [SERVER] [INFO] Saving chunks for level 'TEST'/Overworld
+2023-03-19 02:24:20 [SERVER] [INFO] Saving chunks for level 'TEST'/Nether
+2023-03-19 02:24:20 [SERVER] [INFO] Saving chunks for level 'TEST'/The End
+2023-03-19 02:30:40 [SERVER] [INFO] Saving and pausing game...
+2023-03-19 02:30:40 [SERVER] [INFO] Saving chunks for level 'TEST'/Overworld
+2023-03-19 02:30:40 [SERVER] [INFO] Saving chunks for level 'TEST'/Nether
+2023-03-19 02:30:40 [SERVER] [INFO] Saving chunks for level 'TEST'/The End
+2023-03-19 02:30:41 [SERVER] [INFO] Stopping server
+2023-03-19 02:30:41 [SERVER] [INFO] Saving players
+2023-03-19 02:30:41 [SERVER] [INFO] Saving worlds
+2023-03-19 02:30:41 [SERVER] [INFO] Saving chunks for level 'TEST'/Overworld
+2023-03-19 02:30:41 [SERVER] [INFO] Saving chunks for level 'TEST'/Nether
+2023-03-19 02:30:41 [SERVER] [INFO] Saving chunks for level 'TEST'/The End
+2023-03-19 02:40:35 [SERVER] [INFO] Starting integrated minecraft server version UNKNOWN
+2023-03-19 02:40:35 [SERVER] [INFO] Generating keypair
+2023-03-19 02:40:35 [SERVER] [INFO] Preparing start region for level 0
+2023-03-19 02:40:36 [SERVER] [INFO] Administrator[/127.0.0.1:0] logged in with entity id 307 at (21.925000011920933, 73.0, 248.65466307301963)
+2023-03-19 02:40:40 [SERVER] [INFO] Saving and pausing game...
+2023-03-19 02:40:40 [SERVER] [INFO] Saving chunks for level 'TEST'/Overworld
+2023-03-19 02:40:40 [SERVER] [INFO] Saving chunks for level 'TEST'/Nether
+2023-03-19 02:40:40 [SERVER] [INFO] Saving chunks for level 'TEST'/The End
+2023-03-19 02:41:54 [SERVER] [INFO] Saving and pausing game...
+2023-03-19 02:41:54 [SERVER] [INFO] Saving chunks for level 'TEST'/Overworld
+2023-03-19 02:41:54 [SERVER] [INFO] Saving chunks for level 'TEST'/Nether
+2023-03-19 02:41:54 [SERVER] [INFO] Saving chunks for level 'TEST'/The End
+2023-03-19 02:42:17 [SERVER] [INFO] Saving and pausing game...
+2023-03-19 02:42:17 [SERVER] [INFO] Saving chunks for level 'TEST'/Overworld
+2023-03-19 02:42:17 [SERVER] [INFO] Saving chunks for level 'TEST'/Nether
+2023-03-19 02:42:17 [SERVER] [INFO] Saving chunks for level 'TEST'/The End
+2023-03-19 02:42:19 [SERVER] [INFO] Saving and pausing game...
+2023-03-19 02:42:19 [SERVER] [INFO] Saving chunks for level 'TEST'/Overworld
+2023-03-19 02:42:19 [SERVER] [INFO] Saving chunks for level 'TEST'/Nether
+2023-03-19 02:42:19 [SERVER] [INFO] Saving chunks for level 'TEST'/The End
+2023-03-19 02:42:21 [SERVER] [INFO] Stopping server
+2023-03-19 02:42:21 [SERVER] [INFO] Saving players
+2023-03-19 02:42:21 [SERVER] [INFO] Saving worlds
+2023-03-19 02:42:21 [SERVER] [INFO] Saving chunks for level 'TEST'/Overworld
+2023-03-19 02:42:21 [SERVER] [INFO] Saving chunks for level 'TEST'/Nether
+2023-03-19 02:42:21 [SERVER] [INFO] Saving chunks for level 'TEST'/The End
